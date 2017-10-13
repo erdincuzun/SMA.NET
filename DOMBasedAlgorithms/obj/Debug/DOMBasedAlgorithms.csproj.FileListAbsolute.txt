@@ -1,0 +1,10 @@
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\DOMBasedAlgorithms.dll
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\DOMBasedAlgorithms.pdb
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\obj\Debug\DOMBasedAlgorithms.dll
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\obj\Debug\DOMBasedAlgorithms.pdb
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\AngleSharp.dll
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\bin\Debug\AngleSharp.xml
+C:\Users\Erdinc\Desktop\Temp\UzunAlgorithm\SearchForm\DOMBasedAlgorithms\obj\Debug\DOMBasedAlgorithms.csprojResolveAssemblyReference.cache
