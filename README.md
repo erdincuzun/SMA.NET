@@ -24,4 +24,4 @@ int res = ESMAJ.SearchAlgoritms.Search(tagname, source, startIndex, ESMAJ.Search
 # Publications
 <b>Comparison of string matching algorithms in web documents. </b> Buluş, H., N.; Uzun, E.; and Doruk, A. In International Scientific Conference’2017 (UNITECH’17), volume 2, pages 279-282, 2017. 
 
-<a href="https://www.e-adys.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
+<a href="https://erdincuzun.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
